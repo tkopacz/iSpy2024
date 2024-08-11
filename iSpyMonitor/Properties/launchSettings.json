@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "Z:\\A-HW\\tkopacz\\iSpy2024\\iSpyMonitor\\bin\\x64\\Debug\\net8.0-windows\\iSpyMonitor.exe"
+    }
+  }
+}
